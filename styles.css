@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--rosa);
+    background-color: var(--Preto);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -70,7 +70,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--rosa);
+    text-shadow: -5px 5px var(--Preto);
 }
 
 
